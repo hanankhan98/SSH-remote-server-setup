@@ -3,7 +3,7 @@
 This project is a **hands-on guide** to setting up a remote Linux server and configuring it for secure SSH access.  
 It’s designed to help you practice the fundamentals of **server administration**, **SSH key management**, and **basic security hardening**.  
 
-Inspired by a challenge from (https://roadmap.sh)
+Inspired by a challenge from (https://roadmap.sh/projects/ssh-remote-server-setup)
 
 ---
 
